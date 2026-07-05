@@ -1,0 +1,19 @@
+{
+    "name": "Bysis — Mode & Lifestyle",
+    "short_name": "Bysis",
+    "description": "Votre destination mode ultime : découvrez, essayez et achetez les dernières tendances.",
+    "lang": "fr",
+    "dir": "auto",
+    "start_url": "./index.html",
+    "scope": "./",
+    "display": "standalone",
+    "orientation": "portrait",
+    "background_color": "#ffffff",
+    "theme_color": "#0f3460",
+    "categories": ["shopping", "lifestyle", "fashion"],
+    "icons": [
+        { "src": "icons/icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any" },
+        { "src": "icons/icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any" },
+        { "src": "icons/icon-maskable-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+    ]
+}
